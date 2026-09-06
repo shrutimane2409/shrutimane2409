@@ -121,7 +121,7 @@ Exploring the intersection of **software engineering, cloud computing, artificia
 
 ## 🔬 Currently Exploring
 
-```text
+<pre>
 Cloud & Distributed Systems
         ↓
 AI / Machine Learning
@@ -131,3 +131,12 @@ LLM Applications
 RAG & Information Retrieval
         ↓
 Intelligent Software Systems
+</pre>
+
+<br>
+
+---
+
+## 🔗 Connect With Me
+
+💼 [LinkedIn](https://www.linkedin.com/in/shrutimane9/)
