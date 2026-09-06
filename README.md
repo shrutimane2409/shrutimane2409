@@ -4,7 +4,7 @@
 
 Software engineer with professional experience in **.NET and full-stack development**, specialising in **enterprise software and eCommerce**.
 
-Currently focused on building at the intersection of **software engineering, cloud and AI**.
+Currently focused on building at the intersection of **software engineering, cloud and AI/ML**.
 
 <br>
 
