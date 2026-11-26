@@ -1,142 +1,71 @@
-# Hi, I'm Shruti Mane 👋
+# Hey there, I'm Shruti 👋
 
-### Software Engineer | MSc Computer Science Negotiated Learning
+### Full-Stack Software Engineer · .NET · React · Cloud · AI
 
-Software engineer with professional experience in **.NET and full-stack development**, with a background in **enterprise software and eCommerce**.
-
-Interested in building **reliable backend systems, well-designed APIs, cloud-native applications and AI-powered software**.
-
-<br>
+I build **backend systems and full-stack apps that hold up in production**: clean APIs, solid data layers and interfaces people enjoy using.
+I have **3+ years** of experience on enterprise and eCommerce platforms.
 
 ---
 
-## 🛠️ What I Build
+## 💡 What I Do
 
-| Area | Technologies & Focus |
-|---|---|
-| 💻 **Languages** | C# • Java • Python • SQL • JavaScript |
-| ⚙️ **Backend Engineering** | .NET • ASP.NET Core • REST APIs • Entity Framework • LINQ |
-| 🎨 **Frontend Engineering** | Angular • TypeScript • JavaScript • HTML • CSS |
-| 🗄️ **Data & Persistence** | SQL Server • PostgreSQL • Data Modelling • Stored Procedures |
-| 🔗 **Integration Engineering** | REST Integrations • ERP Systems • Data Synchronisation • Data Mapping |
-| ☁️ **Cloud & Infrastructure** | Microsoft Azure • Azure Functions • Azure Blob Storage • Docker |
-| 🚀 **DevOps & Delivery** | Git • GitHub • Azure DevOps • CI/CD |
-| 🤖 **AI & Data Science** | Python • Machine Learning • NLP • LLMs • RAG • Embeddings |
-
-<br>
+- 🔧 **Backend & APIs:** REST services, business logic and integrations built to be maintainable
+- 🖥️ **Full-Stack Apps:** from database schema to React/Angular frontend, delivered end to end
+- 🔗 **System Integrations:** connecting ERPs, catalogues and third-party services with reliable data sync
+- ⚡ **Performance:** load testing and tuning. I cut API response times by ~64% under 400 concurrent users
+- 🤖 **AI-Powered Features:** LLM integrations, RAG pipelines and natural-language interfaces
 
 ---
 
-## 🧑‍💻 Engineering Focus
+## 🧰 Tech Stack
 
-**Backend & API Engineering**  
-Designing application services, RESTful APIs, business logic and reusable backend components with a focus on **maintainability, reliability and clean separation of concerns**.
-
-**Enterprise Systems**  
-Building and evolving enterprise applications where **business workflows, data, integrations and multiple application layers** need to operate together reliably.
-
-**Integration & Data Engineering**  
-Working with **external system integrations, ERP workflows, data synchronisation, validation, transformation and persistence** across interconnected applications.
-
-**Application Modernisation**  
-Interested in evolving legacy systems through **incremental modernisation, architectural refactoring and migration toward modern .NET application architectures**.
-
-**Cloud & Distributed Systems**  
-Exploring **cloud-native architectures, serverless computing, containerisation, event-driven processing and distributed application design** using Azure.
-
-**AI Engineering**  
-Exploring practical AI systems built around **LLMs, embeddings, Retrieval-Augmented Generation (RAG), information retrieval and intelligent document processing**.
-
-<br>
+**Languages:** C# · TypeScript · JavaScript · SQL · Python · Java
+**Backend:** ASP.NET Core · Web API · Entity Framework Core · Microservices
+**Frontend:** React · Angular · HTML · CSS
+**Data & Messaging:** SQL Server · PostgreSQL · Elasticsearch · Kafka
+**Cloud & DevOps:** Azure · Docker · Kubernetes · CI/CD · Git
+**AI:** LLM APIs · RAG · Embeddings · Prompt Engineering
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Work
 
-### 💼 JobFlow
-**Full-Stack Career Management Platform**
+### 💳 [SettleFlow](https://github.com/shrutimane2409/SettleFlow)
+**The problem:** payment systems must never lose or double-process a transaction, even when parts of the system fail.
+**What I built:** an event-driven payment processing platform with asynchronous messaging, reliable processing and an operations dashboard.
+`.NET` `Kafka` `PostgreSQL` `Kubernetes` `Docker`
 
-`C#` `ASP.NET Core` `Angular` `PostgreSQL` `EF Core` `Docker`
+### 🧭 [QueryPilot](https://github.com/shrutimane2409/QueryPilot)
+**The problem:** non-technical users need data answers but can't write SQL, and AI-generated SQL can be risky.
+**What I built:** a natural-language-to-SQL assistant with safety validation that blocks harmful queries. It works with multiple LLM providers.
+`.NET` `React` `TypeScript` `PostgreSQL` `LLMs`
 
-A full-stack platform for managing job applications, interviews, companies and career progress.
-
-**Engineering Focus**
-
-`REST API Design` `Authentication` `Data Modelling` `Application Architecture` `Analytics`
-
----
-
-### ☁️ CloudDocs
-**Cloud-Native Document Processing Platform**
-
-`C#` `ASP.NET Core` `Azure Functions` `Azure Blob Storage` `Azure SQL` `Docker`
-
-A cloud-based document processing system exploring serverless workflows, document storage, metadata management and application monitoring.
-
-**Engineering Focus**
-
-`Serverless Architecture` `Event-Driven Processing` `Cloud Storage` `Distributed Workflows` `Observability`
+### 🌍 [Compass](https://github.com/shrutimane2409/compass)
+**The problem:** students choosing where to study abroad rely on expensive and often biased consultancies.
+**What I built:** an AI counsellor that recommends the right country, university and course based on budget, goals and interests.
+`LLMs` `RAG` `AI Agents` `React`
 
 ---
 
-### 🤖 CareerAI
-**AI-Powered CV & Job Analysis Platform**
+## 🌱 Open Source
 
-`Python` `.NET` `LLMs` `RAG` `Embeddings` `Vector Search`
-
-An AI application that analyses CVs against job descriptions, identifies relevant skills and generates personalised insights.
-
-**Engineering Focus**
-
-`LLM Applications` `RAG Pipelines` `Information Retrieval` `Semantic Search` `Prompt Engineering`
+I've recently started exploring open source, learning how large projects are built and picking up small fixes along the way.
 
 ---
 
-### 🧠 InsightNLP
-**Natural Language Processing & Machine Learning**
+## 🤝 How I Work
 
-`Python` `Pandas` `NumPy` `scikit-learn` `NLP`
+**Understand the problem → Design simply → Build & test → Ship → Improve**
 
-An NLP pipeline for processing and analysing text data through preprocessing, feature extraction, model development and evaluation.
-
-**Engineering Focus**
-
-`Text Processing` `Feature Engineering` `Model Evaluation` `NLP Pipelines` `Machine Learning`
-
-<br>
+I care about readable code, clear communication and owning what I ship.
 
 ---
 
-## 🎓 MSc Computer Science Negotiated Learning
+## 📫 Let's Connect
 
-Exploring the intersection of **software engineering, cloud computing, artificial intelligence, machine learning, NLP and data-driven systems**.
+I'm open to **Software Engineer / Full-Stack** opportunities and interesting collaborations.
 
-**Areas of Interest**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrutimane9/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111?logo=githubpages&logoColor=white)](https://shrutimane2409.github.io)
 
-`Cloud Computing` `AI/ML` `NLP` `Data Analytics` `Software Engineering` `Distributed Systems` `System Design`
-
-<br>
-
----
-
-## 🔬 Currently Exploring
-
-<pre>
-Cloud & Distributed Systems
-        ↓
-AI / Machine Learning
-        ↓
-LLM Applications
-        ↓
-RAG & Information Retrieval
-        ↓
-Intelligent Software Systems
-</pre>
-
-<br>
-
----
-
-## 🔗 Connect With Me
-
-💼 [LinkedIn](https://www.linkedin.com/in/shrutimane9/)
+⭐ Take a look around my repositories, and feel free to reach out!
